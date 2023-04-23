@@ -1,2 +1,0 @@
-# lootads
-OVERLAY para streamers
